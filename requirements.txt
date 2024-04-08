@@ -1,3 +1,3 @@
 Cybotrade==1.3.9
 git+https://github.com/aoki-h-jp/binance-bulk-downloader
-pandas
+pandas==2.2.1
